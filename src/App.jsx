@@ -4,7 +4,8 @@ import Child from './Child'
 const App = () => {
   return (
     <div>
-        <h1>hello react </h1>
+        <h1>hello Aparna </h1>
+        <h3>How are you..?</h3>
         <Child/>
     </div>
   )
